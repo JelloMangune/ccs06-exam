@@ -13,7 +13,8 @@
         <th scope="col">Student</th>
         <th scope="col">Midterm Grade</th>
         <th scope="col">Final Grade</th>
-        <th scope="col">Average Score</th>
+        <th scope="col">Average Grade</th>
+        <th scope="col">Remarks</th>
     </tr>
     </thead>
     <tbody>
